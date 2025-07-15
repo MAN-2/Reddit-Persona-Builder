@@ -35,11 +35,23 @@ It scrapes their recent Reddit activity, summarizes patterns using an LLM, and g
 
 all.py
 ├── scrap[1].py → Get all comments & posts
+
 ├── summarize[2].py → Summarize in chunks with citations
+
 ├── finalizepersona[3].py → Generate final persona with traits + tone
+
 ├── genimage[4].py → Generate avatar using Dicebear
+
 └── combine[5].py → Combine avatar + text into persona card image
 
+
+
+---
+## Screenshots:
+![11](https://github.com/user-attachments/assets/6a517e06-8ddc-49b0-8647-143b210b909e)
+![12](https://github.com/user-attachments/assets/8ab132e7-7ba1-44c8-b20b-1c559ba0e4d3)
+
+<img width="1024" height="640" alt="kojied_persona_card" src="https://github.com/user-attachments/assets/744d2ed5-9b5a-44d0-b756-e19aa817f9a5" />
 
 
 ---
@@ -77,7 +89,7 @@ Final persona (TXT + JSON)
 Auto-generated avatar image
 
 Final persona card PNG
-
+---
 📝 Example Output
 output/kojied/kojied_persona.txt – personality writeup
 
