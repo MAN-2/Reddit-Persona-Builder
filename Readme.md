@@ -78,6 +78,7 @@ Install dependencies:
 pip install -r requirements.txt
 Run the full pipeline:
 python all.py
+
 Enter the Reddit username (or full profile URL) when prompted.
 
 Done! Check the output/<username>/ folder for:
