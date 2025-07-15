@@ -34,6 +34,7 @@ It scrapes their recent Reddit activity, summarizes patterns using an LLM, and g
 ## 🔄 Pipeline Flow
 
 all.py
+
 ├── scrap[1].py → Get all comments & posts
 
 ├── summarize[2].py → Summarize in chunks with citations
